@@ -1,0 +1,4 @@
+[symfony]
+  name=rdm
+  author=Your name here
+  orm=Doctrine

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/pinouchon/!svn/ver/9/rdm/apps/frontend/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/pinouchon/!svn/ver/7/rdm/apps/frontend/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pinouchon/!svn/ver/7/rdm/apps/frontend/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pinouchon/!svn/ver/9/rdm/apps/frontend/config/settings.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pinouchon/!svn/ver/7/rdm/apps/frontend/config/frontendConfiguration.class.php
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pinouchon/!svn/ver/7/rdm/apps/frontend/config/cache.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pinouchon/!svn/ver/9/rdm/apps/frontend/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/pinouchon/!svn/ver/7/rdm/apps/frontend/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pinouchon/!svn/ver/7/rdm/apps/frontend/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pinouchon/!svn/ver/7/rdm/apps/frontend/config/view.yml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin
+END
+PluginsfGuardUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUser.php
+END
+PluginsfGuardGroupPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroupPermissionPeer.php
+END
+PluginsfGuardRememberKeyPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardRememberKeyPeer.php
+END
+PluginsfGuardUserPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserPermissionPeer.php
+END
+PluginsfGuardPermissionPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardPermissionPeer.php
+END
+PluginsfGuardGroupPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroupPermission.php
+END
+PluginsfGuardRememberKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardRememberKey.php
+END
+PluginsfGuardUserGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserGroupPeer.php
+END
+PluginsfGuardUserPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserPermission.php
+END
+PluginsfGuardGroupPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroupPeer.php
+END
+PluginsfGuardPermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardPermission.php
+END
+PluginsfGuardUserPeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserPeer.php
+END
+PluginsfGuardUserGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardUserGroup.php
+END
+PluginsfGuardGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/model/plugin/PluginsfGuardGroup.php
+END

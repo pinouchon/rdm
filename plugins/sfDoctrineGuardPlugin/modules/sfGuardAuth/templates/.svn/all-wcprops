@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates
+END
+secureSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates/secureSuccess.php
+END
+signinSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/modules/sfGuardAuth/templates/signinSuccess.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfFormExtraPlugin/lib/validator
+END
+sfValidatorBlacklist.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfFormExtraPlugin/lib/validator/sfValidatorBlacklist.class.php
+END
+sfValidatorReCaptcha.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfFormExtraPlugin/lib/validator/sfValidatorReCaptcha.class.php
+END
+sfValidatorSchemaTimeInterval.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfFormExtraPlugin/lib/validator/sfValidatorSchemaTimeInterval.class.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base
+END
+BasesfGuardFormSignin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base/BasesfGuardFormSignin.class.php
+END
+BasesfGuardUserAdminForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base/BasesfGuardUserAdminForm.class.php
+END

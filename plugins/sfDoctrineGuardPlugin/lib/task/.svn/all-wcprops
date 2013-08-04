@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/task
+END
+sfGuardChangePasswordTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardChangePasswordTask.class.php
+END
+sfGuardCreateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardCreateAdminTask.class.php
+END
+sfGuardPromoteSuperAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardPromoteSuperAdminTask.class.php
+END
+sfGuardAddPermissionTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardAddPermissionTask.class.php
+END
+sfGuardCreateUserTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardCreateUserTask.class.php
+END
+sfGuardAddGroupTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardAddGroupTask.class.php
+END

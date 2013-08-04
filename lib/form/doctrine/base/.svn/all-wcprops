@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/pinouchon/!svn/ver/7/rdm/lib/form/doctrine/base
+END
+BaseJobeetCategoryForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pinouchon/!svn/ver/7/rdm/lib/form/doctrine/base/BaseJobeetCategoryForm.class.php
+END
+BaseJobeetCategoryAffiliateForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pinouchon/!svn/ver/7/rdm/lib/form/doctrine/base/BaseJobeetCategoryAffiliateForm.class.php
+END
+BaseJobeetAffiliateForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pinouchon/!svn/ver/7/rdm/lib/form/doctrine/base/BaseJobeetAffiliateForm.class.php
+END
+BaseJobeetJobForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pinouchon/!svn/ver/7/rdm/lib/form/doctrine/base/BaseJobeetJobForm.class.php
+END

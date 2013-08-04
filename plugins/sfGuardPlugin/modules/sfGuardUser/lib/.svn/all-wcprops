@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/modules/sfGuardUser/lib
+END
+BasesfGuardUserActions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/modules/sfGuardUser/lib/BasesfGuardUserActions.class.php
+END
+sfGuardUserGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/modules/sfGuardUser/lib/sfGuardUserGeneratorConfiguration.class.php
+END
+sfGuardUserGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/modules/sfGuardUser/lib/sfGuardUserGeneratorHelper.class.php
+END

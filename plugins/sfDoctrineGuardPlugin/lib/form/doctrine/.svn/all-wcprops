@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine
+END
+PluginsfGuardPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardPermissionForm.class.php
+END
+sfGuardFormSignin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardFormSignin.class.php
+END
+sfGuardUserAdminForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardUserAdminForm.class.php
+END
+PluginsfGuardGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardGroupForm.class.php
+END
+PluginsfGuardUserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pinouchon/!svn/ver/9/rdm/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardUserForm.class.php
+END

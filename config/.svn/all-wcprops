@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/pinouchon/!svn/ver/9/rdm/config
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/pinouchon/!svn/ver/7/rdm/config/rsync_exclude.txt
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/pinouchon/!svn/ver/7/rdm/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/pinouchon/!svn/ver/9/rdm/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/pinouchon/!svn/ver/7/rdm/config/properties.ini
+END

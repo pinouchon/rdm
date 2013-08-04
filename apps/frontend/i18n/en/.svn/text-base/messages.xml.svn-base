@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2011-01-23T18:01:55Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="2">
+        <source>Bienvenue sur le site « Les petites reines du miel »</source>
+        <target>Welcome to the site « The small honey queens »</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>A partir de ce site, ouvert au printemps 2010 vous pouvez :</source>
+        <target>On this site, which was launched in spring 2010, you can :</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Consulter mes activités et mes expériences d’apiculteur</source>
+        <target>See my beekeeeping activities</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Commander et </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>du miel si vous êtes dans la région Roannaise</source>
+        <target> some honey if you are in the Roanne region</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>acheter </source>
+        <target>Purchase</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Stage d’apprentissage du Français</source>
+        <target>French language training</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Accompagnement pour randonnées touristiques en vélo ou à pied</source>
+        <target>Tourism advice/tour guide for bike trips and trekking</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Accueil</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Apiculture</source>
+        <target>Beekeeping</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Nature</source>
+        <target>Nature</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Acheter</source>
+        <target>Order</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Me connaitre</source>
+        <target>About me</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Contact</source>
+        <target>Contact</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Les produits de la ruche</source>
+        <target>Beekeeping products</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Je vends du miel toutes fleurs, à dominante acacia, et récolté de façon artisanale.&lt;br/&gt;&#13;
+    Le conditionnement est en pot de verre de 1kg.</source>
+        <target>I sell flower honey, mainly acacia, and harvested by hand. <br/>
+    The packaging is glass jar 1kg.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Pour me contacter</source>
+        <target>Contact me</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Adresse email:</source>
+        <target>Email address:</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Téléphone fixe: 0477704989</source>
+        <target>Phone: 33(0)477704989</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Téléphone portable: 0614236787</source>
+        <target>Mobile Phone: 33(0)614236787</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Page en construction</source>
+        <target>Page under construction</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Mes racines en apiculture</source>
+        <target>My roots in beekeeping</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Mes ruchers</source>
+        <target>My apiaries</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Ma ruche vitrée</source>
+        <target>My glass beehive</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Je pratique une apiculture artisanale héritée des activités familiales de mes parents. Je développe actuellement&#13;
+    un petit rucher de quelques dizaines de ruches et je l’exploite au travers de méthodes respectueuses des abeilles.</source>
+        <target>I use traditional beekeeping practices inherited from my parents. 
+Currently I am developing three small apiaries of about ten hives each and I operate them using bee-friendly methods.</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Les essaims que je capture, tel que celui sur la photo ci-contre, sont systématiquement mis en ruche Warré.</source>
+        <target>Swarms that I catch, such as the one shown in the photo, are systematically put in a Warre hive.</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Essaim "La victoire" découvert le 8 mai 2010 sur un buisson d'Aubépine en fleurs.</source>
+        <target>Swarm "Victory" discovered May 8, 2010 on a thicket of hawthorn blossoms.</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Ma mère s’occupe d’abeilles depuis bientôt trente ans.
+    C’est là mon héritage. Je participe activement chaque année, avec elle, aux récoltes de miel les mois d’Août.</source>
+        <target>My mother has been taking care of bees for nearly thirty years.
+        This is my legacy. For the past twenty years, I have helped her to harvest the honey every August.</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Ses ruches font partie intégrante du charmant jardin parental entretenu principalement par mon père mais également
+    par ma mère qui apporte la touche florale et la plantation d’espèces mellifères depuis de très nombreuses années.</source>
+        <target>These hives are part of the charming garden maintained primarily by my father.
+            Of course, my mother contributes by planting flowers. She plants especially flowers which gives honey.</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Les années passent. Les forces déclinant d’une part chez ma mère, ne pouvant imaginer tout ce capital apicole
+    partir en ruine d’autre part, je me suis décidé à reprendre, à faire vivre ces abeilles et même à développer
+    cette activité.</source>
+        <target>As time went by, my mother's health gradually declined making it more and more difficult for her to maintain the hives.
+        I couldn't see all their hard work going to waste. There was only one thing left to do and that was to offer taking
+        over the beekeeping operation and eventually to further develop it.</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>C’est en 2008 que j’ai décidé de reprendre le flambeau, d’acquérir le savoir de ma mère en apiculture.
+    Je l’ai fait en 2009, au long des quatre saisons et c’est ainsi que j’ai appris, en le pratiquant,
+    ce que c’est qu’un beau couvain, une belle reine, une ruche bourdonneuse, une ruche au bord de l’essaimage,
+    le chant des reines, et bien d’autres choses encore… Merci maman.</source>
+        <target>In 2008 my mother gladly handed over the beekeeping to me. Starting in 2009, I was her apprentice for the four seasons,
+        gaining a lot of knowledge as I worked alongside of her. For example, I learned to identify a lovely brood, a beautiful
+        queen, a hive consisting of solely drones, a hive on the verge of giving birth to a new swarm, the song of the queens,
+        and many other things ... Thanks mom.</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Et puis, en 2009, j’ai aussi  appris pleins de choses en apiculture par  Internet, par les livres ou par
+    des collègues et amis. C’est ainsi que j’ai décidé de pratiquer l’apiculture en ruches Warré et de remplacer
+    en 2 ou 3 ans les ruches Dadant de mes parents.</source>
+        <target>Besides learning from my mom, I also obtained a lot of information about beekeeping on the Internet,
+    from books, colleagues and friends. As a result of all this knowledge, I made a decision to replace
+    the Dadant hives that my parents traditionally used with Warre hives over the next 2 to 3 years.</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>C’est ainsi que je mets la révolution dans le rucher comme dit si bien ma mère.
+    Tout cela est mêlé, bien sur, d’un peu d’inquiétude, de curiosité sur les résultats à venir et de joie
+    aussi de voir ces petites reines continuer leur activité.</source>
+        <target>So I put the revolution, as my mother calls it, in the apiary.
+        My mother watched on with mixed emotions, of course: with a little anxiety and curiosity
+        about the future results, but also with joy to see these little queens continue their activity.</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Au jour où j’écris, le 22 mai 2010, j’ai 10 ruches Warré peuplées de cette année et encore aucune pratique
+    de la récolte de miel avec ces ruches. C’est là mon aventure apicole…</source>
+        <target>Today as I am writing this entry, May 22, 2010, I have 10 populated Warré hives and I don't know
+        what to expect from the harvest since it's my first time working with these hives. This is my adventure in beekeeping.</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Je m’occupe de trois petits ruchers d’une dizaine de ruches chacun.</source>
+        <target>I take care of three small apiaries with around 10 hives in each.</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Deux sont situés dans le jardin de mes parents.</source>
+        <target>Two are located in the garden of my parents.</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Le troisième est situé aux abords d’un petit village dans le département de la Loire, sur un petit
+    terrain clos qui a été aménagé par mes parents au fil des ans. Ce petit rucher est un modèle en son
+    genre, comme ceux que l’on décrit dans les livres d’apiculture : petites haies d’arbustes plantés sur la
+    périphérie, arbres fruitiers, abris de jardin, clôture, acacias aux alentours et</source>
+        <target>The third is located near a small village in the department of the Loire, a small enclosed
+        land which has been landscaped by my parents over the years. This is a typical little beeyard as described in the books of beekeeping:
+    small shrubs and tall hedges border the periphery, wattle fences enclosing the yard,</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Tilleul de vingt-cinq ans. Pour ceux qui veulent créer leur rucher, avec de tels arbres, armez vous de patience...</source>
+        <target>Linden twenty-five years. For those who want to create their hive, with such trees, arm yourself with patience ...</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>2 tilleuls sur la propriété</source>
+        <target>and two linden trees</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>plantés par mes parents il y a vingt-cinq ans, donc jeunes arbres en devenir…</source>
+        <target>planted by my parents twenty-five years ago...</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Mes lectures m’ont appris que les abeilles peuvent vivre dans la nature et qu’elles peuvent même construire en
+    pleine lumière, même si généralement les essaims choisissent des trous dans les troncs d’arbre où des endroits
+    abrités donc des habitats sombres.</source>
+        <target>My readings have taught me that bees can live in nature and they are even able to build in daylight.
+        Most swarms generally choose holes in tree trunks. These swarms prefer sheltered habitats.</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Il n’en fallait pas plus pour que je me décide à construire une ruche vitrée format Warré. Le but est
+    essentiellement pédagogique, pour moi en premier lieu et peut être pour d’autres dans les mois et années à venir.
+    Pourquoi ne pas utiliser un tel outil pédagogique dans une école ? Affaire à suivre et avis aux instituteurs et
+    institutrices partants pour une « leçon de chose apicole ».</source>
+        <target>This information was enough to convince me to build a glass beehive in a Warre format. The aim of using
+    a glass beehive is basically educational, for me mainly and perhaps for others in the months and years
+    to come. For example, why not use such a teaching tool in a school? Teachers and beekeeping enthusiasts,
+    contact me if you're interested in a lesson in beekeeping.</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Ma ruche est peuplée depuis début mai, par deux petits essaims secondaires que j’ai réunis et placés dans cette
+    ruche. Elle est sur un élément et se développe correctement.</source>
+        <target>My hive has been inhabited since early May by two small swarms that I combined together in this hive.
+        The swarm is growing normally.</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Retour page précédente</source>
+        <target>Back to previous page</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Je transforme progressivement mes ruches Dadant en ruches Warré qui sont, selon mes lectures et ma récente expérience&#13;
+      sur le sujet,  le modèle de ruche le plus approprié pour les abeilles, et j’applique le cahier des charges de&#13;
+      l’apiculture biologique.</source>
+        <target>I am gradually transforming my Dadant hives into Warre hives which are,
+        according to my readings and my recent experience on the subject, the model most appropriate for bees.
+        I follow organic beekeeping practices.</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>J’ai déjà appris sur les abeilles avec cette ruche : leur rapport avec la lumière : Elles montent sur les parois
+    en direction de la lumière. Cela m’a valu le fait d’aménager une ouverture sur la partie haute de la ruche, pour
+    éviter qu’elles ne montent et retombent par paquet. Je sais aussi qu’il y aura beaucoup d’autres enseignements.
+    Notamment, l’été et l’hiver à passer tout en leur conservant une ruche « habitable »</source>
+        <target>I have already learned something about bees using this hive, primarily, their relationship with light: They climb
+    the glass walls toward the light but then drop to the bottom and climb back up again. This led me to construct
+    a way out on the glass ceiling of the hive because it was clear that they did not know how to get out using the
+    bottom entry way. I should explain that in a regular hive with only a bottom entrance, the bees can easily see the
+    light coming in through the bottom and so make their way out easily. Indeed, I know that there will be many more lessons for me to learn...
+    In particular, I'm waiting for summer and winter to pass to test whether their hives are "livable".</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Liens</source>
+        <target>Links</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Ascension du Mont Blanc</source>
+        <target>Mont Blanc climbing</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>L’ascension du Mont Blanc</source>
+        <target>Mont Blanc climbing</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Photos</source>
+        <target>Photos</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Ce produit est disponible à mon adresse personnelle.&lt;br/&gt;&#13;
+    Je peux aussi livrer dans un rayon de 20 km autour de Roanne.&lt;br/&gt;&#13;
+    Appelez moi ou laissez un message si besoin. </source>
+        <target>This product is available at my home address. <br/>
+    I can also deliver within a radius of 20 km around Roanne. <br/>
+    Call me or leave a message if necessary. </target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Haute Route Pyrénéenne</source>
+        <target>Pyrenean High Road</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>des essaims</source>
+        <target> swarms</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Formation en apiculture</source>
+        <target>Beekeeping training</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Formation</source>
+        <target>Formation</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Location de ruches</source>
+        <target>Hive rent</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Parrainage</source>
+        <target>Sponsorship</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Le préceptorat en apiculture pour les enfants</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Je souhaite transmettre mon savoir en apiculture à de jeunes enfants et communiquer ma passion et mon amour de la nature.&#13;
+Pour ce faire, je propose mes services à des parents peu disponibles pour garder leur enfant et intéressés par cette démarche. Le temps de garde et d’apprentissage en apiculture aura lieu le mercredi (matin et/ou après midi) pendant les périodes scolaires. Les apprentissages concerneront notamment:</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Les visites régulières, aux ruchers, des colonies d’abeilles avec les protections nécessaires fournies par mes soins.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>L’apprentissage des fleurs mellifères et le semis de certaines fleurs</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>La construction, la préparation, l’entretien et le déplacement de ruches</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>La cueillette d’essaims naturels et la création d’essaims artificiels au printemps</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>La récolte du miel (si l’enfant est disponible pendant les vacances d’été)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>La lecture d’ouvrages sur les abeilles et la nature</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Et pour l’hiver, quand tout est calme, ou bien après une bonne après midi d’apiculture,  j’envisage les jeux à la maison tel que les échecs, l’Othello, les dames</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Compte tenu des déplacements hebdomadaires, la présente offre s’adresse à  des parents habitant la région roannaise. Elle concerne des enfants qui ne sont pas allergiques aux piqures d’abeilles et dont les parents auront préalablement donné leur accord à cette activité. Ce préceptorat s’adresse à des enfants de l’école primaire âgés de 8 à 10 ans.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Je demande à être payé en chèques emploi service.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Tarif pour l’année scolaire 2010/2011 : 20€/heure net.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Pour toute question, interrogation ou détail supplémentaire, n’hésitez pas à m’appeler. Puis après, si le préceptorat vous tente, je vous proposerai une rencontre avec votre enfant pour échanger sur les motivations et attentes de chacun. Une telle démarche mérite de bien mettre les choses au point et requiert probablement un peu de temps avant de s’engager.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Un projet pedagogique en sciences pour l'ecole primaire</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>apprendre comment vivent les abeilles</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Par Bernard CROUZIER, Apiculteur</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Je souhaite éveiller et intéresser les jeunes enfants au monde fascinant des abeilles. Pour ce faire, je propose aux écoles primaires un projet pédagogique en science intitulé « Apprendre comment vivent les abeilles »
+Ce projet s’adresse, pour l’année scolaire 2010/2011, aux enseignants des classes de CE et CM de Roanne et sa région.  Les interventions débuteront à partir d’avril
+Le projet est structuré en 5 interventions d’une heure. La participation orale des élèves est demandée par des questions et par une recherche sur le thème abordé la fois suivante. Les thèmes sont :
+</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>La colonie d’abeilles, sa composition,  son mode de vie.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>La maison des abeilles.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Les fleurs visitées par les abeilles.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Les produits de la ruche.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>L’abeille en chiffre et la piqure d’abeille.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>La visite d’un rucher est éventuellement possible après avoir discuté, au préalable, des conditions de sécurité du groupe.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>Lors de la séance n° 4, les élèves se verront remettre un petit pot de miel de 125g (mais chut,… c’est une surprise)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Les éventuels frais de déplacement de la classe sont à la charge de l’école.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Le tarif du projet pour une classe est de 80€. Ce montant est demandé afin de couvrir partiellement les dépenses de l’intervenant (matériel et déplacement). Ce montant peut être couvert par une participation de 3 à 5 €, demandées à chaque élève de la classe. Le tarif du projet est majoré si l’éloignement de l’école est située à plus de 20km de Roanne.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Pour toute question, interrogation ou détail supplémentaire, n’hésitez pas à m’appeler. Je vous proposerai ensuite une rencontre pour définir ensemble les  modalités pratiques d’intervention pour une bonne conduite du projet.</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>L'apprentissage de l'apiculture pour un enfant</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>L'abeille à l'école primaire</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Dans un avenir proche,  j’élargirai  mes activités et services.&#13;
+    J’ouvrirai  ma demeure aux étrangers qui souhaitent découvrir un coin de France et/ou aux étrangers qui souhaitent apprendre le Français.&#13;
+    Les services prévus à partir de 2012 sont les suivants :</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Prix du miel de la récolte 2010</source>
+        <target>Pricing for the crop of 2010</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

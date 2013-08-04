@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/task
+END
+sfGuardCreateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/task/sfGuardCreateAdminTask.class.php
+END
+sfGuardAddPermissionTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/task/sfGuardAddPermissionTask.class.php
+END
+sfGuardCreateUserTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/task/sfGuardCreateUserTask.class.php
+END
+sfGuardAddGroupTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/task/sfGuardAddGroupTask.class.php
+END

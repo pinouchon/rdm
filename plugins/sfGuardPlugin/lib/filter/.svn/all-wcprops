@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter
+END
+sfGuardGroupPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter/sfGuardGroupPermissionFormFilter.class.php
+END
+sfGuardRememberKeyFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter/sfGuardRememberKeyFormFilter.class.php
+END
+sfGuardUserPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter/sfGuardUserPermissionFormFilter.class.php
+END
+sfGuardPermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter/sfGuardPermissionFormFilter.class.php
+END
+sfGuardUserGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter/sfGuardUserGroupFormFilter.class.php
+END
+sfGuardGroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter/sfGuardGroupFormFilter.class.php
+END
+sfGuardUserFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pinouchon/!svn/ver/7/rdm/plugins/sfGuardPlugin/lib/filter/sfGuardUserFormFilter.class.php
+END

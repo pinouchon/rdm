@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine
+END
+JobeetAffiliateTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetAffiliateTable.class.php
+END
+JobeetCategory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetCategory.class.php
+END
+JobeetCategoryAffiliate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetCategoryAffiliate.class.php
+END
+JobeetJobTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetJobTable.class.php
+END
+JobeetAffiliate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetAffiliate.class.php
+END
+JobeetCategoryTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetCategoryTable.class.php
+END
+JobeetCategoryAffiliateTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetCategoryAffiliateTable.class.php
+END
+JobeetJob.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/pinouchon/!svn/ver/7/rdm/lib/model/doctrine/JobeetJob.class.php
+END
